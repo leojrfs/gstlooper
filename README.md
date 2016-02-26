@@ -1,0 +1,2 @@
+# gstlooper
+Gstreamer video looper
